@@ -37,15 +37,3 @@ Digital Image Processing
      - Nearest Neighbor Interpolation: Implemented nearest neighbor interpolation for simple image zooming with a focus on speed.
      - Image Shrinking: Reduced the size of images while preserving key features.
 
-## How to Run
-
-Each topic has its own script. To run the code:
-1. Clone this repository.
-2. Navigate to the corresponding folder for each lab task.
-3. Execute the Python scripts using your preferred environment.
-
-```bash
-git clone <repository-link>
-cd <specific-folder>
-python <script-name>.py
-```
